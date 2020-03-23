@@ -6,6 +6,7 @@ public class Main {
 
         OutputWelcomeMessage();
         Isograms.Run();
+        Vowels.Run();
 	// write your code here
     }
 
