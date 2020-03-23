@@ -6,6 +6,7 @@ import java.util.List;
 public class Isograms {
 
     public static void Run() {
+        System.out.println("### ----------------ISOGRAMS--------------- ##");
         List<String> testInput = GetTestInput();
         for (String isogram : testInput) {
             if (isIsogram(isogram)) {

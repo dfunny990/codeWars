@@ -7,6 +7,7 @@ public class Main {
         OutputWelcomeMessage();
         Isograms.Run();
         Vowels.Run();
+        DubStep.Run();
 	// write your code here
     }
 
